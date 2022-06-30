@@ -6,7 +6,7 @@ public class LineComparison {
  * 
  * @param args
  */
-	public static void main(String[] args) {
+	public void Line() {
 		/**
 		 * assigning four cordinates which will make two straight lines
 		 * calculating the distance of two lines
